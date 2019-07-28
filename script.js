@@ -36,12 +36,3 @@
                       responsive : true
                     });
                   }
-
-$(function(){
-
-  $('.logo').click(function(){
-
-    $('.logo').hide();
-
-  });
-});
